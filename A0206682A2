@@ -71,4 +71,4 @@ while True:
         print (i)
         myDeviceShadow.shadowUpdate(jsonPayload,myShadowUpdateCallback, 5)
   # Wait for this test value to be added.
-        time.sleep(0.11)           
+        time.sleep(1)           
